@@ -1,0 +1,7 @@
+[package]
+name = "codotaku_scripting_language"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chumsky = { git = "https://github.com/zesterer/chumsky", version = "1.0.0-alpha.6", features = ["unstable"] }
