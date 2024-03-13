@@ -1,1 +1,1 @@
-let x = 1+2;
+let numbers = (0..10).for(|x| (x + 1) * 2);

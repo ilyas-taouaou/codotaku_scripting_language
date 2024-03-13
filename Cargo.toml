@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-chumsky = { git = "https://github.com/zesterer/chumsky", version = "1.0.0-alpha.6", features = ["unstable"] }
+ariadne = { git = "https://github.com/zesterer/ariadne.git", version = "0.4.0" }
+chumsky = { git = "https://github.com/zesterer/chumsky", version = "1.0.0-alpha.6", features = [
+    "unstable",
+] }
