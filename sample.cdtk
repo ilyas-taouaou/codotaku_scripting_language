@@ -1,1 +1,20 @@
-let numbers = (0..10).for(|x| (x + 1) * 2);
+{
+    let list = [1, 2, 3 + 3];
+    let x = (0..10).123.map(|x| {
+        let w = 10;
+        w
+    });
+    let y = 20;
+    let z = {
+        let w = 10;
+        w;
+    };
+    for i in (0..10) {
+        i = 10;
+        print(i);
+    };
+
+    if 10 == 20 {
+
+    }
+}
